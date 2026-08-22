@@ -1,0 +1,5 @@
+interface:
+  display_name: "Scoping Review CTI"
+  short_description: "Scoping reviews of empirical CTI policy evidence in health"
+  default_prompt: "Plan a scoping review of empirical science, technology, and innovation policies or strategies in health using PCC and PRISMA-ScR."
+
